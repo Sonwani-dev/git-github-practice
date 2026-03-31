@@ -10,3 +10,8 @@ git checkout feature-login
 git merge feature-login
 git push origin main
 git pull origin main
+
+
+1.git init  
+Initializes a new Git repository in your project folder.  
+Used when starting version control for a new project.
