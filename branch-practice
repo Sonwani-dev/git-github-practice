@@ -5,7 +5,7 @@ Displays all branches in the repository.
 The current active branch is highlighted.
 
 git branch feature-name  
-Creates a new branch without switching to it.  
+Creates a new branch without switching to it. 
 Useful for starting separate work safely.
 
 git checkout feature-name  
