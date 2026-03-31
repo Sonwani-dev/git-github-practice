@@ -1,1 +1,29 @@
+#Braching Statements 
 
+git branch  
+Displays all branches in the repository.  
+The current active branch is highlighted.
+
+git branch feature-name  
+Creates a new branch without switching to it.  
+Useful for starting separate work safely.
+
+git checkout feature-name  
+Switches from the current branch to another branch.  
+Used to work on a different feature or version.
+
+git checkout -b feature-name  
+Creates a new branch and switches to it immediately.  
+Useful for quickly starting new feature work.
+
+git merge feature-name  
+Merges another branch into the current branch.  
+Used to combine completed work into main.
+
+git branch -d feature-name  
+Deletes a branch after it has been merged.  
+Helps keep the repository clean.
+
+git branch -m old-name new-name  
+Renames an existing branch.  
+Useful when changing branch naming conventions.
