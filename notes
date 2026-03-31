@@ -15,3 +15,60 @@ git pull origin main
 1.git init  
 Initializes a new Git repository in your project folder.  
 Used when starting version control for a new project.
+
+2.git status  
+Shows the current state of files in your repository.  
+Displays modified, staged, and untracked files.
+
+3.git add .  
+Stages all changed files for the next commit.  
+Used before committing changes to Git history.
+
+4.git commit -m "message"  
+Creates a saved snapshot of your staged changes.  
+The message describes what changes were made.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
