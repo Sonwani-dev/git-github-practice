@@ -28,30 +28,30 @@ Used before committing changes to Git history.
 Creates a saved snapshot of your staged changes.  
 The message describes what changes were made.
 
-5.
+5.git push origin main  
+Uploads your local commits to the remote GitHub repository.  
+Keeps your online repository updated.
 
-6.
+6.git pull origin main  
+Downloads the latest changes from the remote repository.  
+Useful before starting work to stay updated.
 
-7.
 
-8.
+7.git clone repository-link  
+Creates a copy of an existing repository on your computer.  
+Used when working on a project from GitHub.
 
-9.
+8.git log  
+Shows the commit history of the repository.  
+Displays commit messages, IDs, and timestamps.
 
-10.
+9.git rm file-name  
+Removes a file from both the project and Git tracking.  
+Used when deleting unwanted files.
 
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
+10.git mv old-name new-name  
+Renames or moves a file within the repository.  
+Git tracks the change automatically.
 
 
 
